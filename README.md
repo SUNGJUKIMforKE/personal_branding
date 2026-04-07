@@ -24,10 +24,11 @@ python -m http.server 8765
 
 ## 배포
 
-빌드 도구 없이 **루트에 `index.html`이 있는 폴더**를 그대로 올리면 됩니다.
+- **저장소**: [github.com/SUNGJUKIMforKE/personal_branding](https://github.com/SUNGJUKIMforKE/personal_branding)
+- **GitHub Pages(공개 URL)**: [https://sungjukimforke.github.io/personal_branding/](https://sungjukimforke.github.io/personal_branding/)  
+  (`main` 브랜치 루트의 정적 파일을 사용합니다. 반영까지 1~2분 걸릴 수 있습니다.)
 
-- **GitHub Pages**: 저장소 Settings → Pages에서 해당 브랜치/폴더 지정
-- **Netlify**: 폴더를 드래그 앤 드롭하거나 저장소 연결
+다른 호스팅(Netlify 등)에도 **루트의 `index.html`**만 있으면 그대로 올릴 수 있습니다.
 
 ## 커피챗(구글 폼)
 
